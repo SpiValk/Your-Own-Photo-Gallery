@@ -3,9 +3,9 @@
 Go to [Firebase homepage](https://firebase.google.com/) and create a new free account (if you don't already have). Follow the steps below:
 
 1.  Go to your account's console by clicking **Go to console** on the upper right corner.
-2.  Click on **+ Add project** and name it whatever you like. Follow the steps (un-click Google analytics) and the project is created!
+2.  Click on **+ Add project** and name it whatever you like. Follow the steps (un-click Google analytics) and the project is created! </br>
     <img src="./images/Google-analytics-disabled.png" height="200">
-3.  Now you are redirected in the project's main page. Click the **</>** icon (tooltip: Web) to register a new front-end app. Name it **firegram** and hit **Register app**
+3.  Now you are redirected in the project's main page. Click the **</>** icon (tooltip: Web) to register a new front-end app. Name it **firegram** and hit **Register app** </br>
     <img src="./images/create-web-app.png" height="200">
 4.  A **firebaseConfig** object will be provided right after registration. **Copy** each value individually and paste it in the **.env** file inside this project respectively. After you are finished, click **Continue to Console** </br>
     <img src="./images/firebaseConfig.png" height="200"> &nbsp; <img src="./images/env-variables.png" height="200">
